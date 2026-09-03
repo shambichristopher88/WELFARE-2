@@ -19,7 +19,7 @@ Core records:
 
 Use a local static server (for example `npm start`) and open `http://localhost:5173`.
 
-Demo login: **admin@kamsweg.org** / **Kamsweg2026!**
+Demo login: **admin@kamsweg.org** / *********
 
 ## Included workflow
 
